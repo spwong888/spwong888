@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Spencer Wong, and I am a Web Development Learner who is learning JavaScript, HTML, and CSS.  Please feel free to look at my repositories to view my work.
 
 <!--
 **spwong888/spwong888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
