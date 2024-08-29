@@ -2,6 +2,8 @@
 
 My name is Spencer Wong, and I am a Web Development Learner who is learning JavaScript, HTML, and CSS.  Please feel free to look at my repositories to view my work.
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/spencer-a-wong/).
+
 ## Skills
 - Programming Languages: JavaScript
 - Web Development: HTML/CSS, React, Node.js
